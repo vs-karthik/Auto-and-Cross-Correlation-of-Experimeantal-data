@@ -1,6 +1,6 @@
  Description<br/>
 
-               code1: By using the experimental data(hotwire) the normalized an=utocorrelation function as been plotted and also estimated the time integral scale.
+               code1: By using the experimental data(hotwire) the normalized autocorrelation function as been plotted and also estimated the time integral scale.
 
                code2: By using the image files extracted from code present in Frames_extraction-and-time-series-analysis-for-experimental-data repository (not grey scale) by considering three different points normalised cross correlation and convection velocity of the 
                       travelling vortices has been calculated.
